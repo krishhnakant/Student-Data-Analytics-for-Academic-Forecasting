@@ -1,0 +1,11 @@
+student_performance.csv — Sample Dataset:
+
+student_id,hours_studied,attendance_rate,assignment_score,previous_grade,final_grade
+S001,2,60,55,60,62
+S002,5,85,80,75,78
+S003,1,50,40,50,50
+S004,8,95,95,90,94
+S005,3,70,60,65,67
+S006,6,90,85,80,86
+S007,4,75,70,70,72
+S008,7,92,90,88,91

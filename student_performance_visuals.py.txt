@@ -1,0 +1,12 @@
+student_performance_visuals.py
+
+For charts and plots:
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+df = pd.read_csv("student_performance.csv")
+
+sns.pairplot(df[['hours_studied', 'attendance_rate', 'assignment_score', 'previous_grade', 'final_grade']])
+plt.show()

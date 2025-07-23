@@ -1,0 +1,12 @@
+ Currently Included (Core Project Files)
+✔ student_performance.csv
+Sample dataset with study hours, attendance, assignments, grades.
+
+✔ student_grade_prediction.py
+Python script that:
+
+Loads data
+
+Trains a Linear Regression model
+
+Prints MSE and feature importance

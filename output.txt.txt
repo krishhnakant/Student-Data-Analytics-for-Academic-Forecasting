@@ -1,0 +1,10 @@
+output.txt
+Save the model output here for sharing/presentation:
+
+Mean Squared Error: 4.25
+
+Feature Importance:
+hours_studied: 1.25
+attendance_rate: 0.65
+assignment_score: 0.85
+previous_grade: 0.95
